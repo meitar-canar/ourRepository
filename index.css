@@ -1,3 +1,8 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
 #mydiv {
     color: red;
 }
@@ -8,6 +13,8 @@
 }
 
 #p {
-    border: 1px solid purple;
-    background-color: aqua;
+    border: 3px solid purple;
+        background-color: rgb(185, 22, 22);
+        border-radius: 10px;
+        padding: 10px;
 }
